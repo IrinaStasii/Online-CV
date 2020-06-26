@@ -1,0 +1,145 @@
+h4{
+    color: grey;
+}
+
+hr {
+    border-top: 3px solid #ccb78f !important;
+    width: 50% !important;
+}
+
+.resume-right-col {
+    background: #27221F;
+    color: white;
+    padding: 20px;
+  }
+
+.resume-icon{
+    color: black !important;
+    text-decoration: none;
+    display: flex;
+    font-size: 20px;
+}
+
+a #resume-icon{
+    -webkit-padding-start: 0px;
+}
+
+a h5{
+    margin: 0px 0px 0px 10px;
+}
+
+.responsibilities{
+    margin-bottom: 0px;
+}
+
+.company-name{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: grey;
+}
+.jobName {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+.mdl-progress > .progressbar {
+   background-color: blueviolet !important;
+}
+ .bufferbar .bar .bar2{
+    width: 30%;
+}
+
+.progressNumber {
+    color: white;
+    padding-top: 10px;
+}
+.skillsDiv {
+   padding:0px !important;
+}
+.abilitiesDiv{
+    display: flex;
+}
+.universityName{
+    margin-top: 0px;
+}
+.faculty{
+    margin-top: 0px;
+    color: grey;
+}
+
+.languages-title{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+  
+}
+.languages{
+    padding-top: 0px !important;
+    margin-left: 0px !important;
+    width: 60%;
+    
+    
+}
+.languageSkills{
+    padding-top: 7px;
+}
+
+.mdl-cell--3-col{
+    width: 160px !important;
+}
+
+@media (max-width: 839px) and (min-width: 480px) { .mdl-grid {
+    padding: 0px !important;
+}
+
+}
+@media (max-width: 479px)
+{
+.mdl-grid {
+    padding: 0px !important;
+}
+.mdl-cell--3-col {
+    margin: 0px !important;
+}
+}
+
+.ProgressCircle{
+    width: 300px !important;
+    height: 100px !important;
+    margin-left: 0px;
+
+}
+
+.language-div{
+    display: flex;
+}
+ #fixedDivAboutMe{
+    position: fixed;
+    margin-top: 0px;
+    padding-top: 0px;
+} 
+.resume-right-col{
+margin-left: 35% !important;
+height: 100%;
+}
+#name,#phone, #email, #address{
+    margin:auto !important;
+}
+
+.resumePage{
+    display: flex;
+}
+@media (max-width: 768px){
+    #fixedDivAboutMe{
+        flex-grow: 1;
+  position: relative !important;
+  
+}
+.resume-right-col{
+    flex-grow: 1;
+    margin-left: 0px !important; 
+}
+#name{
+    margin-top: 50px !important;
+}
+}

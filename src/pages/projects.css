@@ -1,0 +1,96 @@
+/* .firstProject{
+    display:flex;
+}
+
+#responsive {
+  height: 550px;
+  width: 73%;
+  margin-right: auto;
+  margin-left: auto;
+  float: right;
+}
+
+
+
+.projects{
+    margin: 5px;
+}
+
+  */
+ .leftSideResponsiveImage{
+     display: flex
+ }
+
+.description{
+    height: 550px;
+    width: 20%;
+    margin-left: 18px;
+}
+.description h4{
+    padding-top: 30px;
+}
+#responsive {
+    height: 550px;
+    width: 75%;
+    margin-left: auto;
+    float: right;
+  }
+  #makeItSimple{
+    height: 500px;
+    width: 75%;
+    margin-left: auto;
+    float: right;
+  }
+  #gitIcon {
+    font-size: 50px;
+    float: right;
+    padding-top: 20px;
+  }
+  
+  #gitIcon:hover,
+  #gitIcon:active {
+    font-size: 70px;
+  }
+  
+  .leftSideResponsiveImage a {
+    color: black;
+    text-decoration-color: rgb(231, 230, 230);
+  }
+  #git{
+      display:flex;
+  }
+  #projectDetails{
+text-align: center;
+ }
+  .cardProject p{
+      text-align: center;
+      margin: 10px 20px;
+  }
+  .websiteImages img {
+    height: 300px;
+    width: 500px;
+    border: 2px solid white;
+    margin-top: 20px
+  }
+  /* #website5, #website6{
+    height: 300px;
+    width: 600px;
+  } */
+  .websiteImages{
+    display:flex;
+    flex-wrap: wrap;
+ margin-left: 80px;
+  }
+  /* .col-sm-6 {
+      width: 45%;
+      display: inline-flex;
+  } */
+.cardProject{
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    width: 45%;
+}
+.secondProject{
+  margin-top: 80px;
+}
