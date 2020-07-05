@@ -17,7 +17,6 @@ class Experience extends Component {
               <li>{this.props.firstLi} </li>
               <li>{this.props.secondLi} </li>
               <li>{this.props.thirdLi} </li>
-              <li>{this.props.fourthLi} </li>
               <li>{this.props.fifthLi} </li>
               <li>{this.props.sixthLi} </li>
               </ul>

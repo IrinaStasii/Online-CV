@@ -86,7 +86,7 @@ class About extends Component {
                 ></img>
               }
               skill2="Multi-skilled"
-              description2="I am focusing on front-end developmet (HTML5, CSS3 & JavaScript). Also, I am experiencing ReactJs"
+              description2="I am focusing on front-end developmet (HTML5, CSS3 & JavaScript). Also, I am experiencing ReactJs."
               icon3={
                 <img
                   className="iconSkills"
